@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.herokuapp</groupId>
-	<artifactId>todoapplicationesra</artifactId> <!--change-->
+	<artifactId>todoapplicationesra</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Todo App</name>
 	<packaging>war</packaging>

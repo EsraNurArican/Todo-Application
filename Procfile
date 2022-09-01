@@ -1,1 +1,1 @@
-web: gunicorn TodoApplication.java:<TodoApplication>
+web: gunicorn TodoApplication.java:TodoApplication

@@ -50,37 +50,7 @@
   <div class="container-fluid">
 
     <div class="row">
-      <nav id="sidebarMenu" class="col-md-2 col-lg-2 d-md-block bg-light sidebar collapse">
-        <div class="position-sticky pt-3">
-          <ul class="nav flex-column">
-            <li class="nav-item">
-              <li class="nav-item">
-                <a class="nav-link active" href="/todo/add">
-                  <span data-feather="shopping-cart"></span>
-                  Add a Todo
-                </a>
-              </li>
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/todo/upcoming">
-                <span data-feather="home"></span>
-                Upcoming
-              </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/todo/completed">
-                <span data-feather="file"></span>
-                Completed
-              </a>
-            <li class="nav-item">
-              <a class="nav-link" href="/todo/missed">
-                <span data-feather="shopping-cart"></span>
-                Missed
-              </a>
-            </li>
-          </ul>
-
-        </div>
-      </nav>
+      <%@ include file="common.jsp" %>
 
       <main class="col-md-9 ml-sm-auto col-lg-10 px-md-4 bg-da text-center">
         <div

@@ -87,6 +87,12 @@
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+		<!--Junit Test Dependency-->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.13.2</version>
+		</dependency>
 		<!-- Spring Boot Test Dependency -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

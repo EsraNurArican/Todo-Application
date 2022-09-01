@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="412.20211515863696" y="22.082256169212698">org.springframework.stereotype.Controller</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.5434227330779055" x="758.3995299647474" y="468.74030552291424" />
+  <SelectedNodes>
+    <node>org.springframework.stereotype.Controller</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
